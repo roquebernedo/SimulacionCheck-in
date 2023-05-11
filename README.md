@@ -5,6 +5,7 @@ Simulacion Check-in Aerolinea - Se consultara los vuelos(id) por lo cual retorna
 - Nodemon
 - Express
 - MySQL
+
 Si no tienes Node.js instalado en tu computadora, puedes descargarlo desde su sitio web oficial. Una vez que hayas instalado Node.js, puedes instalar las otras dependencias usando el siguiente comando:
 
 $ npm install nodemon express mysql
