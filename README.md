@@ -29,3 +29,7 @@ Este comando iniciará el servidor y tu aplicación estará lista para recibir s
 # Disclaimer
 
 Este es un proyecto de prueba para validar la funcionalidad de un Check-in, no esta listo para la produccion ya que faltan muchos detalles y esto es solo una parte, si alguien estaria dispuesto a contribuir las partes restantes, es decir si gustaria apoyar, estaria encantado.
+
+# Error
+
+En caso el deploy no funcione lo cual espero que no ocurra, dejare un mensaje por aca ya que seria una pena que eso pasase, aqui esta toda la informacion requerida de todas formas.
